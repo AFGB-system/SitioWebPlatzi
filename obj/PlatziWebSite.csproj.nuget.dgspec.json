@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HACKMYASS\\Documents\\Web apps\\PlatziWebSite\\PlatziWebSite.csproj": {}
+    "C:\\Users\\HACKMYASS\\Documents\\Web apps\\SitioWebPlatzi\\PlatziWebSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HACKMYASS\\Documents\\Web apps\\PlatziWebSite\\PlatziWebSite.csproj": {
+    "C:\\Users\\HACKMYASS\\Documents\\Web apps\\SitioWebPlatzi\\PlatziWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HACKMYASS\\Documents\\Web apps\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectUniqueName": "C:\\Users\\HACKMYASS\\Documents\\Web apps\\SitioWebPlatzi\\PlatziWebSite.csproj",
         "projectName": "PlatziWebSite",
-        "projectPath": "C:\\Users\\HACKMYASS\\Documents\\Web apps\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectPath": "C:\\Users\\HACKMYASS\\Documents\\Web apps\\SitioWebPlatzi\\PlatziWebSite.csproj",
         "packagesPath": "C:\\Users\\HACKMYASS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HACKMYASS\\Documents\\Web apps\\PlatziWebSite\\obj\\",
+        "outputPath": "C:\\Users\\HACKMYASS\\Documents\\Web apps\\SitioWebPlatzi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HACKMYASS\\AppData\\Roaming\\NuGet\\NuGet.Config"
